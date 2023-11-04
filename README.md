@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bethlow
-- 👀 I’m interested in MechE and CS, mainly controls, robotics and computing as it relates to Machine Learning
+- 👀 I’m interested in MechE and CS, mainly controls, robotics and ML 
 - 🌱 I’m currently an EDG Engineer and MathWorks
 - 💞️ I’m looking to collaborate on similar projects
 - 📫 How to reach me: blowenkamp@gmail.com
